@@ -1,0 +1,368 @@
+[
+  {
+    "brand": "nike",
+    "title": "Nike Air Force 1",
+    "price": 120,
+    "colors": ["#635851", "#FFC28D"],
+    "primary": "blue",
+    "imageID": "1"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Jordan 1 Bred",
+    "price": 490,
+    "colors": ["#0A0708", "#BA0017"],
+    "primary": "red",
+    "imageID": "2"
+  },
+
+  {
+    "brand": "nike",
+    "featured": "true",
+    "title": "Air Max 97 Off White",
+    "price": 370,
+    "colors": ["#000000", "#E2E2E6"],
+    "primary": "white",
+    "imageID": "3"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 350 Zebra",
+    "price": 350,
+    "colors": ["#161616", "#818283"],
+    "primary": "black",
+    "imageID": "4"
+  },
+
+  {
+    "brand": "adidas",
+    "title": "Adidas Pharrell NMD",
+    "price": 280,
+    "colors": ["#07080D", "#3C1F36"],
+    "primary": "black",
+    "imageID": "5"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Off White Jordan 1",
+    "price": 540,
+    "colors": ["#008AD0", "#E1EAF0"],
+    "primary": "blue",
+    "imageID": "6"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Off White Jordan 1",
+    "price": 600,
+    "colors": ["#3D3D42", "#A23A43"],
+    "primary": "red",
+    "imageID": "7"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 700 Inertia",
+    "price": 590,
+    "colors": ["#3E4352", "#948C8D"],
+    "primary": "grey",
+    "imageID": "8"
+  },
+
+  {
+    "brand": "yeezy",
+    "featured": "true",
+    "title": "Yeezy 350 Core Red",
+    "price": 400,
+    "colors": ["#C0BCB5", "#D6D5C0"],
+    "primary": "white",
+    "imageID": "9"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Nike White Vapormax",
+    "price": 190,
+    "colors": ["#424245", "#FFFFFF"],
+    "primary": "white",
+    "imageID": "10"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 700 Mauve",
+    "price": 460,
+    "colors": ["#7C7C80", "#1D1D25"],
+    "primary": "grey",
+    "imageID": "11"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Jordan 4 University Blue",
+    "price": 350,
+    "colors": ["#1D1F2B", "#B83742"],
+    "primary": "black",
+    "imageID": "12"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 700 Waverunner",
+    "price": 500,
+    "colors": ["#B8B5B8", "#315F72"],
+    "primary": "grey",
+    "imageID": "13"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Sean Wotherspoon 97",
+    "price": 470,
+    "colors": ["#3D3938", "#9D8870"],
+    "primary": "tan",
+    "imageID": "14"
+  },
+
+  {
+    "brand": "adidas",
+    "title": "Adidas NMD R1",
+    "price": 220,
+    "colors": ["#6D6C75", "#EDECE9"],
+    "primary": "grey",
+    "imageID": "15"
+  },
+
+  {
+    "brand": "vans",
+    "featured": "true",
+    "title": "Vans Old Skool",
+    "price": 90,
+    "colors": ["#C95400", "#13A9B5"],
+    "primary": "orange",
+    "imageID": "16"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Jordan 1 Pollen",
+    "price": 330,
+    "colors": ["#0F131C", "#3D3F4F"],
+    "primary": "black",
+    "imageID": "17"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Air Max 97 White",
+    "price": 140,
+    "colors": ["#1C1A1F", "#D9BD82"],
+    "primary": "gold",
+    "imageID": "18"
+  },
+
+  {
+    "brand": "vans",
+    "title": "Fear of God Vans",
+    "price": 390,
+    "colors": ["#292B2E", "#4586C8"],
+    "primary": "blue",
+    "imageID": "19"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Off White Air Force 1",
+    "price": 440,
+    "colors": ["#7B7D87", "#DFB3AA"],
+    "primary": "pink",
+    "imageID": "20"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 350 Beluga",
+    "price": 380,
+    "colors": ["#1F2729", "#C9CFD4"],
+    "primary": "grey",
+    "imageID": "21"
+  },
+
+  {
+    "brand": "adidas",
+
+    "title": "Adidas Stan Smith",
+    "price": 70,
+    "colors": ["#424350", "#BFBEBF"],
+    "primary": "grey",
+    "imageID": "22"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Jordan 5 Black Metallic",
+    "price": 360,
+    "colors": ["#1B1A1A", "#354785"],
+    "primary": "black",
+    "imageID": "23"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Nike Sacai Grey",
+    "price": 260,
+    "colors": ["#100F1A", "#675451"],
+    "primary": "purple",
+    "imageID": "24"
+  },
+
+  {
+    "brand": "adidas",
+    "title": "Adidas Pharrell NMD",
+    "price": 280,
+    "colors": ["#420100", "#D24155"],
+    "primary": "red",
+    "imageID": "25"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 500 Blush",
+    "price": 220,
+    "colors": ["#555454", "#982532"],
+    "primary": "red",
+    "imageID": "26"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 350 Triple White",
+    "price": 260,
+    "colors": ["#222023", "#E3E3E4"],
+    "primary": "grey",
+    "imageID": "27"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Nike Vapormax Black",
+    "price": 220,
+    "colors": ["#242024", "#F03747"],
+    "primary": "black",
+    "imageID": "28"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy Beluga 2.0",
+    "price": 350,
+    "colors": ["#4B78BB", "#E0E4E8"],
+    "primary": "blue",
+    "imageID": "29"
+  },
+
+  {
+    "brand": "adidas",
+    "featured": "true",
+    "title": "Adidas Ultraboost",
+    "price": 110,
+    "colors": ["#BDBDBD", "#EBE1CD"],
+    "primary": "white",
+    "imageID": "31"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Nike Air Force 1",
+    "price": 120,
+    "colors": ["#131514", "#EBE6DC"],
+    "primary": "black",
+    "imageID": "32"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Jordan 1 Bred",
+    "price": 490,
+    "colors": ["#C7CDAB", "#C9B994"],
+    "primary": "lime",
+    "imageID": "33"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Air Max 97 Off White",
+    "price": 370,
+    "colors": ["#423F3C", "#AF4D55"],
+    "primary": "black",
+    "imageID": "34"
+  },
+
+  {
+    "brand": "yeezy",
+    "featured": "true",
+    "title": "Yeezy 350 Zebra",
+    "price": 350,
+    "colors": ["#233E9C", "#D8D9DB"],
+    "primary": "blue",
+    "imageID": "35"
+  },
+
+  {
+    "brand": "adidas",
+    "title": "Adidas Pharrell NMD",
+    "price": 280,
+    "colors": ["#98A6A7", "#D6D4D2"],
+    "primary": "grey",
+    "imageID": "36"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Off White Jordan 1",
+    "price": 540,
+    "colors": ["#615F5A", "#E3D5C5"],
+    "primary": "white",
+    "imageID": "37"
+  },
+
+  {
+    "brand": "jordan",
+    "title": "Off White Jordan 1",
+    "price": 600,
+    "colors": ["#0E0E0E", "#F7621B"],
+    "primary": "orange",
+    "imageID": "38"
+  },
+
+  {
+    "brand": "yeezy",
+    "title": "Yeezy 700 Inertia",
+    "price": 590,
+    "colors": ["#7D7C7C", "#A6030E"],
+    "primary": "white",
+    "imageID": "39"
+  },
+
+  {
+    "brand": "yeezy",
+    "featured": "true",
+    "title": "Yeezy 350 Core Red",
+    "price": 400,
+    "colors": ["#2A2929", "#0A9DA9"],
+    "primary": "black",
+    "imageID": "41"
+  },
+
+  {
+    "brand": "nike",
+    "title": "Nike White Vapormax",
+    "price": 190,
+    "colors": ["#222830", "#324E6A"],
+    "primary": "black",
+    "imageID": "42"
+  }
+]
